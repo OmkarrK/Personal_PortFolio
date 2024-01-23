@@ -1,0 +1,145 @@
+.edu {
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .edu-title {
+    font-size: 40px;
+    line-height: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellowgreen;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 20px;
+  }
+  
+  
+  .education .row .timeline-box {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  
+  .education .row .timeline {
+    padding: 30px 15px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+    width: 100%;
+    position: relative;
+  }
+  
+  .education .row .timeline:hover {
+    border-color: yellowgreen;
+  }
+  
+  .education .row .timeline-item {
+    position: relative;
+    padding-left: 37px;
+    padding-bottom: 50px;
+    text-align: left;
+  }
+  
+  
+  .education .row .timeline-item::before {
+    content: "";
+    width: 1px;
+    position: absolute;
+    height: 100%;
+    left: 7px;
+    top: 0;
+    background-color: yellowgreen;
+  }
+  
+  .education .row .circle-dot {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: #e5e5e5;
+  }
+  
+  .education .row .timeline-title {
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  
+  .education .row .timeline-text {
+    line-height: 25px;
+    font-size: 16px;
+    text-align: justify;
+  }
+  
+  
+  .int-title {
+    font-size: 40px;
+    line-height: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellowgreen;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 20px;
+  }
+  
+  
+  .internship .row .timeline-box {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  
+  .internship .row .timeline {
+    padding: 30px 15px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+    width: 100%;
+    position: relative;
+  }
+  
+  .internship .row .timeline:hover {
+    border-color: yellowgreen;
+  }
+  
+  .internship .row .timeline-item {
+    position: relative;
+    padding-left: 37px;
+    padding-bottom: 50px;
+    text-align: left;
+  }
+  
+  
+  .internship .row .timeline-item::before {
+    content: "";
+    width: 1px;
+    position: absolute;
+    height: 100%;
+    left: 7px;
+    top: 0;
+    background-color: yellowgreen;
+  }
+  
+  .internship .row .circle-dot {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: #e5e5e5;
+  }
+  
+  .internship .row .timeline-title {
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  
+  .internship .row .timeline-text {
+    line-height: 25px;
+    font-size: 16px;
+    text-align: justify;
+  }

@@ -1,0 +1,121 @@
+/* ---------------------------------------Header------------------------------------------------ */
+
+.navbar {
+  background-color: black;
+
+}
+
+.link {
+  margin-top: 27px;
+  margin-left: 55%;
+  margin-top: 0px;
+  font-size: 20px;
+}
+
+.nav-text {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  margin-left: 10px;
+  color: white;
+}
+
+
+.nav-text:hover {
+  color: gray !important;
+  
+}
+
+
+/* ----------------------------------------Home------------------------------------------------ */
+
+.home {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: black;
+  color: white;
+}
+
+.profile {
+  margin-top: 20px;
+  width: 250px;
+  height:  250px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 10px solid #444444;
+  box-shadow: 5px 7px 25px rgba(0, 0, 0, 0.5);
+  object-fit: cover;
+}
+
+.abouttext h5 {
+  margin-left: 20px;
+  text-align: left;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.aboutname h1 {
+  margin-left: 20px;
+  text-align: left;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: yellowgreen;
+  font-weight: bold;
+}
+
+.aboutdesc p {
+  margin-left: 20px;
+  color: #e5e5e5;
+  text-align: left;
+}
+
+.cvbtn {
+  text-decoration: none;
+  color: white;
+  border: 2px solid yellowgreen;
+  border-radius: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  float: left;
+  margin-left: 130px;
+  margin-top: 10px;
+  background-color: #333;
+  padding: 12px 25px;
+  border-radius: 30px;
+}
+
+.contactbtn {
+  text-decoration: none;
+  color: white;
+  border: 2px solid yellowgreen;
+  border-radius: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  float: left;
+  margin-top: 10px;
+  margin-left: 30px;
+  background-color: #333;
+  padding: 12px 25px;
+  border-radius: 30px;
+}
+
+.icons a {
+  margin-top: 15px;
+  float: left;
+  margin-left: 20px;
+  transition: 0.5s;
+  color: grey;
+}
+
+.icons a:hover {
+  transform: rotate(360deg);
+  color: yellowgreen;
+}
+
+
+/* --------------------------------------------Footer------------------------------------------------- */
+
+
+.footer {
+  background-color: black;
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
