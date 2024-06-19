@@ -20,7 +20,7 @@ function Education() {
                       <div className="timeline-item">
                         <div className="circle-dot"></div>
                         <h3 className="timeline-title">
-                          B.E - 8.66(CGPA)
+                          B.E - 8.12(CGPA)
                         </h3>
                         <h4 className="timeline-title">Sharadchandra Pawar College Of Engineering and Technology Someshwarnagar
                         </h4>
@@ -31,8 +31,8 @@ function Education() {
 
                       <div className="timeline-item">
                         <div className="circle-dot"></div>
-                        <h3 className="timeline-title">HSC-75.38%</h3>
-                        <h4 className="timeline-title">Someshwar Vidyalaya and Junior College Someshwarnagar
+                        <h3 className="timeline-title">HSC-60.00%</h3>
+                        <h4 className="timeline-title">Disha Public School and Jr College Wai.
                         </h4>
                         <h4 className="timeline-title">
                           <i className="fa fa-calendar"></i> 2018-2019
@@ -41,8 +41,8 @@ function Education() {
 
                       <div className="timeline-item">
                         <div className="circle-dot"></div>
-                        <h3 className="timeline-title">SSC-80.8%</h3>
-                        <h4 className="timeline-title">Someshwar Vidyalaya and Junior College Someshwarnagar
+                        <h3 className="timeline-title">SSC-80.20%</h3>
+                        <h4 className="timeline-title">Kamalabai Joshi Kenjal Vidhyalaya Kenjal.
                         </h4>
                         <h4 className="timeline-title">
                           <i className="fa fa-calendar"></i> 2016-2017
