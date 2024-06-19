@@ -30,10 +30,10 @@ function About() {
             <Col md={6}>
               <div className="about-skills">
                 <ul sty>
-                  <li>Name : Avishkar Shinde</li>
-                  <li>Age : 22</li>
+                  <li>Name : Omkar Kumbhar</li>
+                  <li>Age : 23</li>
                   <li>From : India</li>
-                  <li>Email : avishinde1729@gmail.com</li>
+                  <li>Email : omkarkumbhar5006@gmail.com</li>
                   <li>Availabiltiy : Fulltime</li>
                   <li>Experience : Freshers</li>
                 </ul>

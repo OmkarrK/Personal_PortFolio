@@ -10,7 +10,7 @@ function Header() {
   return (
     <Navbar className='navbar' expand='lg'>
         <Container>
-            <Navbar.Brand as={Link} to='/'><img src={logo} style={{height:'100px', width:'100px', borderRadius:'20%'}}></img></Navbar.Brand>
+            {/* <Navbar.Brand as={Link} to='/'><img src={logo} style={{height:'100px', width:'100px', borderRadius:'20%'}}></img></Navbar.Brand> */}
             <Navbar.Toggle aria-controls='basic-navbar-nav'>            </Navbar.Toggle>
 
             <Navbar.Collapse id='basic-navbar-nav'>
